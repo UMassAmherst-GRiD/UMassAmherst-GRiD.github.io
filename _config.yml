@@ -1,0 +1,15 @@
+title: GRiD 
+author: UMass Amherst GRiD group
+description: Website of the "Graduate Researchers interested in Data" group. 
+
+markdown: kramdown
+permalink: /:title
+
+url: "gridclub.io" 
+baseurl: 
+
+highlighter: pygments
+
+sass:
+  sass_dir: public/css
+  style: :compressed

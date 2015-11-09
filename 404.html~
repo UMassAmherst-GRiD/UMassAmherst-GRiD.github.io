@@ -1,0 +1,20 @@
+---
+title: Limbo
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="container not-found">
+      <h1 class="bounceInDown animated">404</h1>
+      <p>
+       	What you are searching for isn't here. Try our new website at <href src="http://gridclub.github.io"> gridclub.io</href>!
+
+	Thanks for visiting!
+      </p>
+    </div>
+  </body>
+</html>
